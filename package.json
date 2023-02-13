@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "http-server": "^14.1.1"
+  },
+  "name": "practical-2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "http-server -p 8000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
